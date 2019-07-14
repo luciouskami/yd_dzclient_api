@@ -1,0 +1,3 @@
+LIBRARY "yd_dzclient_api"
+EXPORTS
+	Initialize
